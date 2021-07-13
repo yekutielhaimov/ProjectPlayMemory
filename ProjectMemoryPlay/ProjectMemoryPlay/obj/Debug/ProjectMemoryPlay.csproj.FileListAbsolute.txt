@@ -1,0 +1,7 @@
+C:\Users\יקותיאל חיימוב\source\repos\ProjectMemoryPlay\ProjectMemoryPlay\obj\Debug\ProjectMemoryPlay.csprojAssemblyReference.cache
+C:\Users\יקותיאל חיימוב\source\repos\ProjectMemoryPlay\ProjectMemoryPlay\obj\Debug\ProjectMemoryPlay.csproj.CoreCompileInputs.cache
+C:\Users\יקותיאל חיימוב\source\repos\ProjectMemoryPlay\ProjectMemoryPlay\bin\Debug\ProjectMemoryPlay.exe.config
+C:\Users\יקותיאל חיימוב\source\repos\ProjectMemoryPlay\ProjectMemoryPlay\bin\Debug\ProjectMemoryPlay.exe
+C:\Users\יקותיאל חיימוב\source\repos\ProjectMemoryPlay\ProjectMemoryPlay\bin\Debug\ProjectMemoryPlay.pdb
+C:\Users\יקותיאל חיימוב\source\repos\ProjectMemoryPlay\ProjectMemoryPlay\obj\Debug\ProjectMemoryPlay.exe
+C:\Users\יקותיאל חיימוב\source\repos\ProjectMemoryPlay\ProjectMemoryPlay\obj\Debug\ProjectMemoryPlay.pdb
